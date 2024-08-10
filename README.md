@@ -1,4 +1,4 @@
-# SyntheticDataforEmployeeBehavior
+# Synthetic Data for Employee Behavior
 <h2>Navigating the Digital Workplace: The Journey of Synthetic Data for Employee Behavior Analysis</h2>
 
 <h4>
